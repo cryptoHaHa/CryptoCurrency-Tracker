@@ -1,6 +1,6 @@
 {
-  "name": "Solana Challenge Dev",
-  "symbol": "SCD",
+  "name": "Challenge SPL Dev",
+  "symbol": "CSD",
   "description": "Challenge task dev token",
   "image": "https://raw.githubusercontent.com/cryptoHaHa/CryptoCurrency-Tracker/main/target.png"
 }
